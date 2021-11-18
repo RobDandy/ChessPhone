@@ -1,0 +1,6 @@
+Pawn: 0
+Knight: 952
+Bishop: 2341
+Rook: 49326
+King: 124908
+Queen: 751503

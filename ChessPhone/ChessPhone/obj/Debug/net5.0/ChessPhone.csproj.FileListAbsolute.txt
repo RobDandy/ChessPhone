@@ -1,0 +1,16 @@
+C:\Projects\LemonEdge\ChessPhone\ChessPhone\bin\Debug\net5.0\ChessPhone.exe
+C:\Projects\LemonEdge\ChessPhone\ChessPhone\bin\Debug\net5.0\ChessPhone.deps.json
+C:\Projects\LemonEdge\ChessPhone\ChessPhone\bin\Debug\net5.0\ChessPhone.runtimeconfig.json
+C:\Projects\LemonEdge\ChessPhone\ChessPhone\bin\Debug\net5.0\ChessPhone.runtimeconfig.dev.json
+C:\Projects\LemonEdge\ChessPhone\ChessPhone\bin\Debug\net5.0\ChessPhone.dll
+C:\Projects\LemonEdge\ChessPhone\ChessPhone\bin\Debug\net5.0\ref\ChessPhone.dll
+C:\Projects\LemonEdge\ChessPhone\ChessPhone\bin\Debug\net5.0\ChessPhone.pdb
+C:\Projects\LemonEdge\ChessPhone\ChessPhone\obj\Debug\net5.0\ChessPhone.csproj.AssemblyReference.cache
+C:\Projects\LemonEdge\ChessPhone\ChessPhone\obj\Debug\net5.0\ChessPhone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LemonEdge\ChessPhone\ChessPhone\obj\Debug\net5.0\ChessPhone.AssemblyInfoInputs.cache
+C:\Projects\LemonEdge\ChessPhone\ChessPhone\obj\Debug\net5.0\ChessPhone.AssemblyInfo.cs
+C:\Projects\LemonEdge\ChessPhone\ChessPhone\obj\Debug\net5.0\ChessPhone.csproj.CoreCompileInputs.cache
+C:\Projects\LemonEdge\ChessPhone\ChessPhone\obj\Debug\net5.0\ChessPhone.dll
+C:\Projects\LemonEdge\ChessPhone\ChessPhone\obj\Debug\net5.0\ref\ChessPhone.dll
+C:\Projects\LemonEdge\ChessPhone\ChessPhone\obj\Debug\net5.0\ChessPhone.pdb
+C:\Projects\LemonEdge\ChessPhone\ChessPhone\obj\Debug\net5.0\ChessPhone.genruntimeconfig.cache
